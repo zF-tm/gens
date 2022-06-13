@@ -2,7 +2,7 @@ import random
 from colorama import Fore
 import time
 
-digits = "17"
+digits = "16"
 service = "Nitro"
 
 print (Fore.RED + """ _______        _        ____                              ___               __  
